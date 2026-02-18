@@ -8,5 +8,8 @@ namespace PracticaCV_MehdiDP
 {
     internal class Clase_Mehdi_DP
     {
+        //CONSTANTES
+        //MIEMBROS PRIVADOS
+        //CONSTRUCTORES
     }
 }
